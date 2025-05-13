@@ -14,7 +14,8 @@ description: "AI Makes Humans better."
 #google_analytics: UA-69281367-1
 #disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: ""
+url: "https://servantailab.github.io"
 
 # Permalinks
 permalink: /:title
